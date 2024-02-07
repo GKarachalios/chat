@@ -17,13 +17,13 @@ npm install
 Run Locally
 
 
-for the server:
+for the backend:
 
 cd backend
 npm run start
 
 
-for the client:
+for the frontend:
 
 cd client
 npm run dev
